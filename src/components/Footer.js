@@ -21,7 +21,7 @@ function Footer() {
                     />
                 </a>
             </div>
-            <a href="#intro" className="footer__link">Return to the top of the page</a>
+            <p className="footer__link">Copyright © 2022</p>
          </footer>
     );
 }

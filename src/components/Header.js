@@ -8,16 +8,16 @@ function Header({handleButtonClick}) {
                         <a onClick={() => handleButtonClick('home')} className="header__link">Home</a>
                     </li>
                     <li>
-                        <a href="pages/practicum.html" className="header__link">Practicum Projects</a>
+                        <a onClick={() => handleButtonClick('practicum')} className="header__link">Practicum Projects</a>
                     </li>
                     <li>
-                        <a href="pages/fcc.html" className="header__link">Free Code Camp Projects</a>
+                        <a onClick={() => handleButtonClick('fcc')} className="header__link">Free Code Camp Projects</a>
                     </li>
                     <li>
                         <a onClick={() => handleButtonClick('resume')} className="header__link resume__text">Resume</a>
                     </li>
                     <li>
-                        <a href="pages/about.html" className="header__link">About Me</a>
+                        <a onClick={() => handleButtonClick('about')} className="header__link">About Me</a>
                     </li>
                 </ul>
             </nav>
