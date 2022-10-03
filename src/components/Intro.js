@@ -3,6 +3,7 @@ import css from "../images/css3-alt.svg";
 import js from "../images/js-square.svg";
 import fcc from "../images/free-code-camp.svg";
 import fa from "../images/font-awesome.svg";
+import react from "../images/react.svg";
 
 function Intro() {
     return (
@@ -73,6 +74,18 @@ function Intro() {
                             alt="fontawesome icon"
                         />
                         <p className="icon__text">FontAwesome</p>
+                    </a>
+                    <a
+                        href="https://reactjs.org/"
+                        target="_blank"
+                        className="icon_wrapper"
+                    >
+                        <img
+                            src={react}
+                            className="icon_large icon_hover"
+                            alt="react icon"
+                        />
+                        <p className="icon__text">React</p>
                     </a>
                 </div>
     </section>

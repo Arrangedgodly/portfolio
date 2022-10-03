@@ -1,15 +1,21 @@
+import Card from './Card';
+import {resumeProjects} from '../utils/constants';
+
 function Resume() {
     return (
         <>
         <section className="project resume">
                 <h3 className="cat_title resume__text">My Personal Coding Projects</h3>
                 <div className="cards">
-                    <a href="https://arrangedgodly.com/button-building/" target="_blank" className="card__link">
-                        <div className="card resume__card">
-                            <h4 className="card_title">Vault Counter</h4>
-                            <p className="card_text">An app designed to help my coworkers quickly and efficiently count the money in the back of house without mathematical errors</p>
-                        </div>
-                    </a>
+                    {
+                        resumeProjects.map(item => (
+                            <Card 
+                                name={item.name}
+                                link={item.link}
+                                desc={item.desc}
+                            />
+                        ))
+                    }
                 </div>
             </section>
             <section className="project resume">
