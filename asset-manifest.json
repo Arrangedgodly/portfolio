@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.34931339.css",
+    "main.js": "/portfolio/static/js/main.099e9cce.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/react.svg": "/portfolio/static/media/react.f45371579312c4a7f430736acfbeac3b.svg",
+    "static/media/soundcloud.svg": "/portfolio/static/media/soundcloud.df6b47606ba1b68c48fd5c329b241183.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.3c228a07879c5b744774a2cb893fbca5.svg",
+    "static/media/free-code-camp.svg": "/portfolio/static/media/free-code-camp.5cede86370f64770b1ebf3b5a208c91e.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.08b5fc3c8648475f83c7581c8b4bba11.svg",
+    "static/media/spotify.svg": "/portfolio/static/media/spotify.8f1872e773bada402edeaf781d9927c3.svg",
+    "static/media/js-square.svg": "/portfolio/static/media/js-square.e36d7ba1468fa72701e7546e67aa05fe.svg",
+    "static/media/itunes-note.svg": "/portfolio/static/media/itunes-note.bdb5cd844decb45a8a4ee1ac282240d9.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.25492f91091cb6e09f90f4fd62e8b304.svg",
+    "static/media/font-awesome.svg": "/portfolio/static/media/font-awesome.6af0fea7452b420537f692d33cb955f7.svg",
+    "static/media/youtube.svg": "/portfolio/static/media/youtube.5bb9f8983e74ca570e22b0cba5ad1544.svg",
+    "static/media/css3-alt.svg": "/portfolio/static/media/css3-alt.f04032231fefe7de607a582f30e134eb.svg",
+    "static/media/html5.svg": "/portfolio/static/media/html5.b3c3ad1f2774887e31d3274f5ead83d2.svg",
+    "static/media/bandcamp.svg": "/portfolio/static/media/bandcamp.42492ed1327a70c2eb593b78bf678fc3.svg",
+    "main.34931339.css.map": "/portfolio/static/css/main.34931339.css.map",
+    "main.099e9cce.js.map": "/portfolio/static/js/main.099e9cce.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34931339.css",
+    "static/js/main.099e9cce.js"
+  ]
+}
