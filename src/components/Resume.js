@@ -13,6 +13,7 @@ function Resume() {
                                 name={item.name}
                                 link={item.link}
                                 desc={item.desc}
+                                key={item.name}
                             />
                         ))
                     }

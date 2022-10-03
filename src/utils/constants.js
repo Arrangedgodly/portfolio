@@ -85,6 +85,11 @@ const resumeProjects = [
     name: "Resume",
     link: "https://graydonwasil.com/",
     desc: "A replacement for my paper resume, recreated in React. Simple design with clickable buttons to generate each relevant section"
+  },
+  {
+    name: "ARTOFFISH",
+    link: "https://arrangedgodly.com/art-gallery/",
+    desc: "An art gallery dedicated to AI generated pieces created via the Midjourney engine. Contains over 1900 images, with an alphabetical sort, randomize, and a live search function"
   }
 ]
 

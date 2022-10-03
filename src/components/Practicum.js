@@ -34,6 +34,7 @@ function Practicum() {
                       name={item.name}
                       link={item.link}
                       desc={item.desc}
+                      key={item.name}
                     />
                   ))
                 }
@@ -58,6 +59,7 @@ function Practicum() {
                       name={item.name}
                       link={item.link}
                       desc={item.desc}
+                      key={item.name}
                     />
                   ))
                 }

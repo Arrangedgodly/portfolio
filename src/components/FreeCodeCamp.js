@@ -44,6 +44,7 @@ function FreeCodeCamp() {
                             name={item.name}
                             link={item.link}
                             desc={item.desc}
+                            key={item.name}
                         />
                     ))
                 }
@@ -65,6 +66,7 @@ function FreeCodeCamp() {
                             name={item.name}
                             link={item.link}
                             desc={item.desc}
+                            key={item.name}
                         />
                     ))
                 }
